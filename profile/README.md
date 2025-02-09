@@ -10,10 +10,10 @@ Our team consists of one _AI researcher_, one _frontend developer_, and two _bac
 
 
 ### All about members
-| Member |Introduction |
-| ------ | ------ | 
-| 강나래 |  |
-| 김미선 |  |
-| 조신영 |  |
-| 차승연 |  |
-| 한혜림 |Growing! |
+| Member | Position | Introduction |
+| ------ | ------ | ------|
+| 강나래 | _backend developer_ | |
+| 김미선 |_frontend developer_ | |
+| 조신영 | _Battery Systems Engineer_| |
+| 차승연 |  _backend developer_| |
+| 한혜림 |_AI researcher_|Growing! |
