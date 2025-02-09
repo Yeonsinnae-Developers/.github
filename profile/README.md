@@ -6,3 +6,12 @@ Our team consists of one _AI researcher_, one _frontend developer_, and two _bac
 
 ..We are actually friends who graduated from the same high school! 🎓✨
 
+
+### All about members
+| Member |Introduction |
+| ------ | ------ | 
+| 강나래 |  |
+| 김미선 |  |
+| 조신영 |  |
+| 차승연 |  |
+| 한혜림 |Growing! |
