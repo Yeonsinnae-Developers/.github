@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=100&section=header&text=capsule%20render&fontSize=0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=100&section=header&fontSize=0)
 
 ## Hi🖐️ We are Yeonsinnae-Engineers🖥️!
 We are a group of developers based in **Yeonsinnae of Eunpyeong-gu, Seoul**. </br>
